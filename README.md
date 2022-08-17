@@ -1,6 +1,7 @@
 ### Hi, I'm Santi! 👋 💻.
-´´´js
-const franmassello = {
+
+
+`const santibrigante = {
   Skills: {
       BackEnd: [
           {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
@@ -20,5 +21,7 @@ const franmassello = {
     ],
   FutureTecnologies: ['Solidity', 'AWS'],
   Aspirations: ['CloudComputing', 'CryptocurrencyDev']
-}
-´´´
+}`
+
+
+
