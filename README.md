@@ -12,7 +12,7 @@ const santibrigante = {
           {JavaScript: ['React', 'React-Native', 'Redux']}
         ],
       Others: [
-          {Python: ['PyTesseract', 'PyAutoGUI', 'Requests', 'PIL']}
+          {Python: ['PyTesseract', 'PyAutoGUI', 'Requests', 'PIL']},
           {Amazon: ['EC2']}
         ]
     },
