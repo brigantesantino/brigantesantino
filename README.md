@@ -1,5 +1,5 @@
 > ## Hi, I'm Santi! 👋 💻.
-![image](https://user-images.githubusercontent.com/92000535/185223116-bdb402c4-b201-421b-92c6-ea70d13d8c13.png)
+![image](![image](https://user-images.githubusercontent.com/92000535/186499930-70033d2a-dfc7-4223-a3ff-329ceb343af9.png))
 
 ```js
 const santibrigante = {
