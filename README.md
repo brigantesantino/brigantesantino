@@ -1,5 +1,5 @@
 > ## Hi, I'm Santi! 👋 💻.
-![image](https://user-images.githubusercontent.com/92000535/186971869-ecf951b0-6b0e-430c-8566-11699532d4c8.png)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsingularity.gs%2F2018%2F04%2F05%2Fweb-programing-languages%2F&psig=AOvVaw0cYelgJghVxVKVq1HeN0FQ&ust=1709820240511000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjJ683m34QDFQAAAAAdAAAAABAR)
 
 
 ```js
